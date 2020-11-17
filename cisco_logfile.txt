@@ -1,0 +1,22 @@
+Jan  3 13:04:36.979 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from LOADING to FULL, Loading Done
+Jan  8 13:34:28.703 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from FULL to DOWN, Neighbor Down: Dead timer expired
+Jan  8 13:34:32.295 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from LOADING to FULL, Loading Done
+Jan  8 13:34:56.247 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from FULL to DOWN, Neighbor Down: Dead timer expired
+Jan  8 13:34:57.979 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from LOADING to FULL, Loading Done
+Jan 13 05:01:03.695 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from FULL to DOWN, Neighbor Down: Dead timer expired
+Jan 13 05:02:02.595 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from LOADING to FULL, Loading Done
+Jan 14 00:45:56.994 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from INIT to DOWN, Neighbor Down: Dead timer expired
+Jan 14 01:54:52.636 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from LOADING to FULL, Loading Done
+Jan 14 02:27:08.759 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from LOADING to FULL, Loading Done
+Jan 17 00:50:28.827 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from FULL to DOWN, Neighbor Down: Dead timer expired
+Jan 17 00:51:27.691 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from LOADING to FULL, Loading Done
+Jan 18 15:35:30.686 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from FULL to DOWN, Neighbor Down: Dead timer expired
+Jan 18 15:36:29.913 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from LOADING to FULL, Loading Done
+Jan 31 21:16:59.338 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from FULL to DOWN, Neighbor Down: Dead timer expired
+Jan 31 21:19:04.934 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from LOADING to FULL, Loading Done
+Jan 31 22:38:43.591 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from FULL to DOWN, Neighbor Down: Dead timer expired
+Jan 31 22:39:42.691 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from LOADING to FULL, Loading Done
+Jan 31 22:40:44.058 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from FULL to DOWN, Neighbor Down: Dead timer expired
+Jan 31 22:41:42.966 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from LOADING to FULL, Loading Done
+Feb  1 04:35:26.335 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from FULL to DOWN, Neighbor Down: Dead timer expired
+Feb  1 04:36:25.191 SGT: %OSPF-5-ADJCHG: Process 200, Nbr 10.132.1.106 on Tunnel1 from LOADING to FULL, Loading Done
